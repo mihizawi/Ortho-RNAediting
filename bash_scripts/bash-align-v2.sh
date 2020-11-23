@@ -1,0 +1,27 @@
+#!bin/bash
+mkdir alignments/Cirri
+./align_proteins_v2.x editing_homology_Cirri_b_R
+mkdir alignments/Embr8h
+./align_proteins_v2.x editing_homology_Embr8h_b_
+mkdir alignments/Embr10h
+./align_proteins_v2.x editing_homology_Embr10h_b_
+mkdir alignments/Embr15h
+./align_proteins_v2.x editing_homology_Embr15h_b_
+mkdir alignments/Embr36h
+./align_proteins_v2.x editing_homology_Embr36h_b_
+mkdir alignments/Epidermis
+./align_proteins_v2.x editing_homology_Epidermis_b_R
+mkdir alignments/FemGonads
+./align_proteins_v2.x editing_homology_FemGonads_b_R
+mkdir alignments/Gills
+./align_proteins_v2.x editing_homology_Gills_b_R
+mkdir alignments/Gut
+./align_proteins_v2.x editing_homology_Gut_b_
+mkdir alignments/Hepatic
+./align_proteins_v2.x editing_homology_Hepatic_b_
+mkdir alignments/MaleGonads
+./align_proteins_v2.x editing_homology_MaleGonads_b_R
+mkdir alignments/Muscle
+./align_proteins_v2.x editing_homology_Muscle_b_R
+mkdir alignments/NeuralTube
+./align_proteins_v2.x editing_homology_NeuralTube_b_

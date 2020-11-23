@@ -1,0 +1,14 @@
+#!bin/bash
+/data/regvolution/mzawi/rna_editing/editing_filter/selective_editing_filter_v2.x ../variants_filtered/Cirri_b_R_variants.vcf /data/regvolution/mzawi/Bla_annot-FINAL_v4_names.gtf -d 10 > Cirri_b_R_variants_filtered_all
+/data/regvolution/mzawi/rna_editing/editing_filter/selective_editing_filter_v2.x ../variants_filtered/Embr_8h_b__variants.vcf /data/regvolution/mzawi/Bla_annot-FINAL_v4_names.gtf -d 10 > Embr_8h_b__variants_filtered_all
+/data/regvolution/mzawi/rna_editing/editing_filter/selective_editing_filter_v2.x ../variants_filtered/Embr_10h_b__variants.vcf /data/regvolution/mzawi/Bla_annot-FINAL_v4_names.gtf -d 10 > Embr_10h_b__variants_filtered_all
+/data/regvolution/mzawi/rna_editing/editing_filter/selective_editing_filter_v2.x ../variants_filtered/Embr_15h_b__variants.vcf /data/regvolution/mzawi/Bla_annot-FINAL_v4_names.gtf -d 10 > Embr_15h_b__variants_filtered_all
+/data/regvolution/mzawi/rna_editing/editing_filter/selective_editing_filter_v2.x ../variants_filtered/Embr_36h_b__variants.vcf /data/regvolution/mzawi/Bla_annot-FINAL_v4_names.gtf -d 10 > Embr_36h_b__variants_filtered_all
+/data/regvolution/mzawi/rna_editing/editing_filter/selective_editing_filter_v2.x ../variants_filtered/Epidermis_b_R_variants.vcf /data/regvolution/mzawi/Bla_annot-FINAL_v4_names.gtf -d 10 > Epidermis_b_R_variants_filtered_all
+/data/regvolution/mzawi/rna_editing/editing_filter/selective_editing_filter_v2.x ../variants_filtered/FemGonads_b_R_variants.vcf /data/regvolution/mzawi/Bla_annot-FINAL_v4_names.gtf -d 10 > FemGonads_b_R_variants_filtered_all
+/data/regvolution/mzawi/rna_editing/editing_filter/selective_editing_filter_v2.x ../variants_filtered/Gills_b_R_variants.vcf /data/regvolution/mzawi/Bla_annot-FINAL_v4_names.gtf -d 10  >Gills_b_R_variants_filtered_all
+/data/regvolution/mzawi/rna_editing/editing_filter/selective_editing_filter_v2.x ../variants_filtered/Gut_b__variants.vcf /data/regvolution/mzawi/Bla_annot-FINAL_v4_names.gtf -d 10  >Gut_b__variants_filtered_all
+/data/regvolution/mzawi/rna_editing/editing_filter/selective_editing_filter_v2.x ../variants_filtered/Hepatic_b__variants.vcf /data/regvolution/mzawi/Bla_annot-FINAL_v4_names.gtf -d 10 > Hepatic_b__variants_filtered_all
+/data/regvolution/mzawi/rna_editing/editing_filter/selective_editing_filter_v2.x ../variants_filtered/MaleGonads_b_R_variants.vcf /data/regvolution/mzawi/Bla_annot-FINAL_v4_names.gtf -d 10 > MaleGonads_b_R_variants_filtered_all
+/data/regvolution/mzawi/rna_editing/editing_filter/selective_editing_filter_v2.x ../variants_filtered/Muscle_b_R_variants.vcf /data/regvolution/mzawi/Bla_annot-FINAL_v4_names.gtf -d 10 > Muscle_b_R_variants_filtered_all
+/data/regvolution/mzawi/rna_editing/editing_filter/selective_editing_filter_v2.x ../variants_filtered/NeuralTube_b__variants.vcf /data/regvolution/mzawi/Bla_annot-FINAL_v4_names.gtf -d 10 > NeuralTube_b__variants_filtered_all
